@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
  * Contact me on san.mnnit11@gmail.com or 8105234517 for any query
  * file created on 2019-10-02
  */
-public class ecommerce_tc_1_1 {
+public class ecommerce_tc_2 {
     // test case to verify toast message
     public static void main(String[] args) throws MalformedURLException {
 
